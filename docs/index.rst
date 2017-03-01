@@ -7,9 +7,9 @@ Welcome to Test docs's documentation!
 =====================================
 
 .. toctree::
-   all-about-me
-   my-job
+   :glob:
 
+   *
 
 Indices and tables
 ==================
